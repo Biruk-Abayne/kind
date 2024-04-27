@@ -234,6 +234,7 @@ const Box = styled.div`
   </Hulu>
   
   </Wonder>
+  <h2>Wonder why</h2>
   
   
 
